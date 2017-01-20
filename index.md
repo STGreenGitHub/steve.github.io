@@ -4,7 +4,26 @@
 
 This page will tell you all about me, Steve
 
-### Markdown
+# Steve
+
+DOB November 62
+
+Music
+Earliest song I can remember was Morningtown Ride by The Seekers
+
+Travel
+My favourite destination list is 
+- Europe
+- Wilderness
+- Moutains
+
+To do list
+- Canada, paddle the inside passage
+- See the Hahnenkamm Downhill
+- Ski the Birkebeinerrennet
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
