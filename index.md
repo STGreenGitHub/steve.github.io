@@ -20,8 +20,8 @@ My favourite destination list is
 - Mountains
 
 To do list
-- Canada, paddle the inside passage
-- See the Hahnenkamm Downhill
+- Paddle the [inside passage] (http://denisdwyer.blogspot.com.au/)
+- See the [Hahnenkamm Downhill] (https://www.hahnenkamm.com/en/)
 - Ski the [Birkebeinerrennet] (http://www.birkebeiner.no/en/MainMenu/Events/Ski1/Birkebeinerrennet/Birken-package-/)
 
 
