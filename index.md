@@ -5,8 +5,8 @@
 This page will tell you all about me, Steve
 
 # Steve
-
-![Steve](steve.github.io/IMG_0074.JPG)
+Steve:
+![alt text](https://github.com/STGreenGitHub/steve.github.io/IMG_0074.JPG)
 
 DOB November 62
 
