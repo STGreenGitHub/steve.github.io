@@ -1,4 +1,4 @@
-## Welcome to Steve's Home Page
+ ## Welcome to Steve's Home Page
 
 
 
@@ -6,6 +6,7 @@ This page will tell you all about me, Steve
 
 # Steve
 
+![Image]("C:\Users\Stephen\Pictures\iPhone 7\IMG_0074.JPG")
 DOB November 62
 
 Music
@@ -15,13 +16,12 @@ Travel
 My favourite destination list is 
 - Europe
 - Wilderness
-- Moutains
+- Mountains
 
 To do list
 - Canada, paddle the inside passage
 - See the Hahnenkamm Downhill
-- Ski the Birkebeinerrennet
-
+- Ski the Birkebeinerrennet [link] (http://www.birkebeiner.no/en/MainMenu/Events/Ski1/Birkebeinerrennet/Birken-package-/)
 
 
 
