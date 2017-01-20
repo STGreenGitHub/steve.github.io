@@ -6,7 +6,7 @@ This page will tell you all about me, Steve
 
 # Steve
 
-![Image](C:\Users\Stephen\Pictures\iPhone 7\IMG_0074.JPG)
+![Steve](steve.github.io/IMG_0074.JPG)
 
 DOB November 62
 
